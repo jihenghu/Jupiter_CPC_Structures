@@ -6,6 +6,18 @@ __pycache__/
 # C extensions
 *.so
 
+cpc_dry/
+cpc_moist/
+
+
+*.png
+*.fits
+*.h5
+*.pdf
+*.csv
+
+
+
 # Distribution / packaging
 .Python
 build/
@@ -205,3 +217,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+junocamimage/trans_jiram_proj-wide.ipynb
+junocamimage/trans_junocam_proj.ipynb
+junocamimage/trans_jiram_proj.ipynb
+plot_cnlevels.ipynb
+plot_xsecs/plot_cpcmean_profile.ipynb
+plot_xsecs/plot_xsec_profiles_pseudo.ipynb
+plot_xsecs/plot_xsec_profiles.ipynb
+Yuan_simulation/output_pv_div_latlon.nc
