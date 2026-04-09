@@ -1,4 +1,4 @@
-# CPC Retrieval Redo
+# CPC pixelwise retrieval from Juno MWR
 
 This repository contains a pixel-wise 1D-Var retrieval workflow for Juno MWR polar data, along with the local model builds, observation products, and plotting notebooks used to analyze the results.
 
@@ -31,7 +31,7 @@ We refer to the adapted version we bind the source C++ code into python interfac
 
 ```bash
 $ git clone https://github.com/jihenghu/canoe.git
-$ git check out jh/juno_mwr_fwd
+$ git checkout jh/juno_mwr_fwd
 ```
 Then, follow the instruction of official Canoe model.
 
