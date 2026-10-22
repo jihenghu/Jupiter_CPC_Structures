@@ -213,6 +213,8 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
@@ -224,4 +226,4 @@ plot_cnlevels.ipynb
 plot_xsecs/plot_cpcmean_profile.ipynb
 plot_xsecs/plot_xsec_profiles_pseudo.ipynb
 plot_xsecs/plot_xsec_profiles.ipynb
-Yuan_simulation/output_pv_div_latlon.nc
+Yuan_simulation/
